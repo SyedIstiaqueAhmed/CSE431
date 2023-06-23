@@ -1,21 +1,20 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/read/qdkfvtdzqgcj
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/ODPiV0qq2LM
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1CQYfxoG_dcGSGgCJG-0t4eadiioKKG4608UVKSDP5mE/edit?usp=sharing
 
 Project title:
-NLP using ANN
+Few Shot Learning Text Classification in Federated Environments
 
 Group Number:
-0
+11
 
 Group Members:
 20101273 Syed istiaque ahmed
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+20101439 Tahsin Tanim Ramisha
+20101478 Tasfia Maliha Ayesha
+20101486 Tasnim Juha

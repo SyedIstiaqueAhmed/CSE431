@@ -2,10 +2,11 @@ Link to unlisted YouTube video:
 
 
 Two public links to the Concept Map (anyone on the internet can view without login):
-PDF:
+PDF: 
 
 
 Native/original format: 
+https://drive.google.com/file/d/19l6WZVIIAeydbVgXF-_tnBll9A8GJmmP/view
 
 
 Name, Author, Edition, year, and publisher of the Book:

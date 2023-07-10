@@ -16,6 +16,7 @@ Dan Jurafsky & James H. Martin
 3rd edition
 2023
 
+
 Link to the book:
 https://web.stanford.edu/~jurafsky/slp3/
 

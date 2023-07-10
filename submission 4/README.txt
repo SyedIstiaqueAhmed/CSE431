@@ -18,7 +18,7 @@ https://docs.google.com/presentation/d/1DPbrjFOxNi9NKOnxppgyn0YrvtSBs_jci0aE974-
 Paper submission date (to workshop/conference):
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: (received) from conference/workshop:
 
 
 Conference Name:

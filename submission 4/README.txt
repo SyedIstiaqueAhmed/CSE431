@@ -9,7 +9,7 @@ Conference submitted paper / paper submission / login Link:
 
 
 Paper title:
-Using Few-Shot Learning for Federated Learning in NLP 
+BART-Driven Sentiment Analysis: Deciphering Amazon Mobile Reviews in the E-commerce Landscape 
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1DPbrjFOxNi9NKOnxppgyn0YrvtSBs_jci0aE974-Sk4/edit?usp=sharing

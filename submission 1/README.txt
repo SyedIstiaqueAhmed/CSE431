@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1CQYfxoG_dcGSGgCJG-0t4eadiioKKG4608UVKSDP5mE/edit?usp=sharing
 
 Project title:
-Few Shot Learning Text Classification in Federated Environments
+BART-Driven Sentiment Analysis: Deciphering Amazon Mobile Reviews in the E-commerce Landscape 
 
 Group Number:
 11
